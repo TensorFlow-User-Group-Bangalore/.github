@@ -3,7 +3,7 @@
 <img src="https://secure.meetupstatic.com/photos/event/7/7/4/8/600_493110536.jpeg" alt="TFUG_Bangalore">
 </div>
 
-TensorFlow User Groups (TFUGs) are communities of developers, engineers, data scientists, and ML practitioners who are passionate about TensorFlow and related technologies.
+**TensorFlow User Groups (TFUGs)** are communities of developers, engineers, data scientists, and ML practitioners who are passionate about TensorFlow and related technologies.
 
 ## What we're about
 
